@@ -1,0 +1,1 @@
+in <cstdio> here we use more like C library header rather than C++, which acts similar to library <iostream>, we did it to prove that C & C++ can cross platform.
